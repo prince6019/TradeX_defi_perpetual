@@ -1,0 +1,7 @@
+{
+  "contractAddresses": {
+    "TradeX": "0x1aCDB5acD6D8EA7e843e863222E55CaFe24DD7d5",
+    "helperConfig": "0xC7f2Cf4845C6db0e1a1e91ED41Bcd0FcC1b0E141",
+    "LiquidityPool": "0x02ff25F9e8CBE9d865Af5ddD0290a50F921895Ba"
+  }
+}

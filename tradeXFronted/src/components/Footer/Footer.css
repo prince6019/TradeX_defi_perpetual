@@ -1,0 +1,34 @@
+.footer{
+    width: 100%;
+    position: static;
+    bottom: 0;
+    background-color: var(--bg-light-color);
+    margin-top: 4rem;
+}
+
+.footer_container{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer_container > h3{
+    font-size: 1.8rem;
+    margin-bottom: 0rem;
+}
+.footer_container >p{
+    margin-top: 0.3rem;
+}
+
+.footer_socialhandle{
+    display: flex;
+    margin-bottom: 0rem;
+}
+
+.social_handle{
+    height: 2rem;
+    width: 2rem;
+    margin: 1rem 3rem;
+    color: var(--head-light-color);
+}
